@@ -1,0 +1,29 @@
+{
+    "workflow_1": {
+        "title": "Title 1",
+        "description": "Description for Workflow 1",
+        "params": [
+            {"name": "account_name", "type": "string"},
+            {"name": "start_date", "type": "date"},
+            {"name": "end_date", "type": "date"}
+        ]
+    },
+    "workflow_2": {
+        "title": "Title 2",
+        "description": "Description for Workflow 2",
+        "params": [
+            {"name": "account_name", "type": "string"},
+            {"name": "start_date", "type": "date"},
+            {"name": "end_date", "type": "date"}
+        ]
+    },
+    "workflow_3": {
+        "title": "Title 3",
+        "description": "Description for Workflow 3",
+        "params": [
+            {"name": "account_name", "type": "string"},
+            {"name": "start_date", "type": "date"},
+            {"name": "end_date", "type": "date"}
+        ]
+    }
+}
